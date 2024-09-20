@@ -1,0 +1,1 @@
+Pre správne fungovanie programu treba najprv vytvoriť databázu vykonaním sql skriptu "OrgStructSQLQuery.sql" cez Microsoft SQL Server.
